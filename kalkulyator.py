@@ -12,3 +12,8 @@ def dec(a,b):
     return a/b
 
 print(dec(7,2))
+# 3 commit
+def ayirish(a,b):
+    return a-b
+
+print(ayirish(17,5))
